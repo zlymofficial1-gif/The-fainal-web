@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zlymofficial1-gif.github.io/The-fainal-web/sitemap.xml
